@@ -37,6 +37,8 @@ html {
 body {
 	font-family: 'Open Sans', sans-serif;
 	margin-bottom: 93px;
+	font-size: 16px;
+	line-height: 28px;
 }
 
 h1 {
@@ -53,8 +55,8 @@ a:hover {
 
 p {
 	margin: 0 0 20px;
-	line-height:21px;
-	font-size:13px;
+	line-height:28px;
+	font-size:16px;
 }
 
 h1, 
@@ -90,8 +92,8 @@ body button.btn-normal {
 
 body a.btn-default,
 body button.btn-default {
-	background-color: #FFFFFF;
-    color: #555555;
+	background-color: #631B4B;
+    color: #fff;
 }
  
 body a.btn-normal:hover,
@@ -142,7 +144,7 @@ body button.btn-default:focus {
 .alert-danger {background-color: #CB2027;}
 .alert-success {background-color: #54B132;}
 .alert-primary {background-color: #3276B1;}
-.alert-warning {background-color: #F8B533;}
+.alert-warning {background-color: #A32382;}
 
 
 /* BOOTSTRAP FORM CONTROL */
@@ -380,16 +382,21 @@ body .overlay-wrapper .overlay a:hover {
 ------------------------------*/
 
 .jumbotron {
-	background:url(../image/pattern.png) repeat;
+	background:white;
 	padding:50px 0px;
 	min-height:400px;
 }
 
 .jumbotron h2 {
-	color:#FFFFFF;
+	color:#666666;
 	font-size:36px;
 	margin-bottom:30px;
 }
+
+.jumbotron h2 span {
+	color:#A32382;
+}
+
 
 .jumbotron h3 {
 	color:#888888;

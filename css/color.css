@@ -152,7 +152,7 @@ body.color-orange label,
 body.color-orange .box ul li i,
 body.color-orange .categories ul li:hover i,
 body.color-orange ul.blog-detail li i {
-	color:#F8B533;
+	color:#A32382;
 }
 
 body.color-orange .btn-normal,
@@ -170,7 +170,7 @@ body.color-orange #footer ul li a:hover,
 body.color-orange ul.blog-tags li a,
 body.color-orange .blog-post .blog-info:after,
 body.color-orange .blog-post .blog-info .date div.number {
-    background-color: #F8B533;
+    background-color: #A32382;
 }
 
 body.color-orange .navbar,
@@ -178,7 +178,7 @@ body.color-orange .navbar-default .navbar-nav > li > ul.dropdown-menu,
 body.color-orange .form-control:focus,
 body.color-orange #search-form .input-group .btn,
 body.color-orange #services .row div:hover i {
-	border-color:#F8B533;
+	border-color:#A32382;
 }
 
 /*------------------------------
@@ -199,6 +199,6 @@ body.color-orange #services .row div:hover i {
 	}
 	
 	body.color-orange #services .row div i {
-		border-color:#F8B533;
+		border-color:#A32382;
 	}
 }
